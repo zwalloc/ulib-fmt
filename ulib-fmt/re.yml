@@ -3,4 +3,4 @@ name: ulib-fmt
 
 deps:
   - github:zwalloc/ulib ^1.0.0
-  - github:osdeverr/fmt @re-9.1.0-1
+  - github:zwalloc/fmt-re ^9.1.0
